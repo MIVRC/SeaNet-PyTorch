@@ -46,9 +46,9 @@ Train/             : all train files are stored here
 
 Test/              : all test files are stored here
 
-README.md : read me first
+README.md          : read me first
 
-demo.sh        : all running instructions
+demo.sh            : all running instructions
 
 ## Dataset
 
@@ -147,6 +147,8 @@ Training curves:
 <img src="images/loss_L1_x2.png" width="235px"/><img src="images/loss_L1_x3.png" width="235px" /> <img src="images/loss_L1_x4.png" width="235px"/> 
 
 </p>
+
+This work was completed in 2018, a long time ago, so there may be omissions in the code finishing process. If you have any questions, please contact me!
 
 ```
 @InProceedings{fang2020soft,
