@@ -148,3 +148,15 @@ Training curves:
 
 </p>
 
+```
+@InProceedings{fang2020soft,
+    title = {Soft-Edge Assisted Network for Single Image Super-Resolutionn},
+    author = {Fang, Faming and Li, Juncheng and Zeng, Tieyong},
+    booktitle = {IEEE Transactions on Image Processing},
+    volume = {29},
+    pages = {4656--4668},
+    year = {2020},
+    publisher = {IEEE}
+}
+```
+
