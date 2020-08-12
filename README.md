@@ -71,15 +71,15 @@ cd Train/
 
 \# SEAN x2  LR: 48 * 48  HR: 96 * 96
 
-python main.py --template SEAN --save SEAN_X2 --scale 2 --reset --save_results --patch_size 64 --ext sep_reset
+python main.py --template SEAN --save SEAN_X2 --scale 2 --reset --save_results --patch_size 96 --ext sep_reset
 
 \# SEAN x3  LR: 48 * 48  HR: 144 * 144
 
-python main.py --template SEAN --save SEAN_X3 --scale 3 --reset --save_results --patch_size 96 --ext sep_reset
+python main.py --template SEAN --save SEAN_X3 --scale 3 --reset --save_results --patch_size 144 --ext sep_reset
 
 \# SEAN x4  LR: 48 * 48  HR: 192 * 192
 
-python main.py --template SEAN --save SEAN_X4 --scale 4 --reset --save_results --patch_size 128 --ext sep_reset
+python main.py --template SEAN --save SEAN_X4 --scale 4 --reset --save_results --patch_size 192 --ext sep_reset
 ```
 
 ##Testing
@@ -144,7 +144,7 @@ We use  Test/PSNR_SSIM_Results_BI_model.txt for PSRN/SSIM test.
 
 Training curves:
 
-<img src="images/loss_L1_x2.png" width="250px"/><img src="images/loss_L1_x3.png" width="250px" /> <img src="images/loss_L1_x4.png" width="250px"/> 
+<img src="images/loss_L1_x2.png" width="200px"/><img src="images/loss_L1_x3.png" width="200px" /> <img src="images/loss_L1_x4.png" width="200px"/> 
 
 </p>
 
