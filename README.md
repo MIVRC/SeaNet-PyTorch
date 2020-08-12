@@ -144,7 +144,7 @@ We use  Test/PSNR_SSIM_Results_BI_model.txt for PSRN/SSIM test.
 
 Training curves:
 
-<img src="images/loss_L1_x2.png" width="200px"/><img src="images/loss_L1_x3.png" width="200px" /> <img src="images/loss_L1_x4.png" width="200px"/> 
+<img src="images/loss_L1_x2.png" width="235px"/><img src="images/loss_L1_x3.png" width="235px" /> <img src="images/loss_L1_x4.png" width="235px"/> 
 
 </p>
 
