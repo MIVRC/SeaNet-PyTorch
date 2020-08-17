@@ -162,5 +162,15 @@ This work was completed in 2018, a long time ago, so there may be omissions in t
 }
 ```
 
+```
+@InProceedings{fang2020soft,
+    title = {Multi-level Edge Features Guided Network for Image Denoising},
+    author = {Fang, Faming and Li, Juncheng, Yuan Yiting, Zeng, Tieyong, and Zhang Guxiu},
+    booktitle = {IEEE Transactions on Neural Networks and Learning Systems},
+    publisher = {IEEE}
+}
+```
+
+
 This implementation is for non-commercial research use only. 
-If you find this code useful in your research, please cite the above paper.
+If you find this code useful in your research, please cite the above papers.
