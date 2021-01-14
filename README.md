@@ -88,7 +88,7 @@ All original test datasets (HR images) can be downloaded from <a href="https://w
 
 Different from previous works to select the best weight as the final model weight, we use the weight of the last epoch as our final model weight directly.
 
-Using pre-trained model for training, all test datasets must be pretreatment by  Prepare_TestData_HR_LR.m and all pre-trained model should be put into Test/model/ first.
+Using pre-trained model for test, all test datasets must be pretreatment by  Prepare_TestData_HR_LR.m and all pre-trained model should be put into Test/model/ first.
 
 ```python
 #SEAN x2
@@ -163,7 +163,7 @@ This work was completed in 2018, a long time ago, so there may be omissions in t
 ```
 
 ```
-@InProceedings{fang2020soft,
+@InProceedings{fang2020multilevel,
     title = {Multi-level Edge Features Guided Network for Image Denoising},
     author = {Fang, Faming and Li, Juncheng, Yuan Yiting, Zeng, Tieyong, and Zhang Guxiu},
     booktitle = {IEEE Transactions on Neural Networks and Learning Systems},
